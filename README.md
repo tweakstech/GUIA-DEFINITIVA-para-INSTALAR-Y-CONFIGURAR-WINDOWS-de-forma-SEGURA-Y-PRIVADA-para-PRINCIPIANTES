@@ -25,16 +25,18 @@
    - AJUSTA LA CURVA DE VELOCIDAD DE LOS VENTILADORES según tus preferencias o las especificaciones del fabricante.
    - Asegúrate de configurar los ventiladores para que respondan adecuadamente a diferentes niveles de temperatura, optimizando el rendimiento de enfriamiento y minimizando el ruido.
 
-> [!IMPORTANT]
-   - La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
-   - Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
-   - Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. Por ejemplo:
+   > [!IMPORTANT]
+   > La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
    
-   - **40°C**: 20% de velocidad del ventilador
-   - **50°C**: 40% de velocidad del ventilador
-   - **60°C**: 60% de velocidad del ventilador
-   - **70°C**: 80% de velocidad del ventilador
-   - **80°C**: 100% de velocidad del ventilador
+   - Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
+   - Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. 
+
+    **Por ejemplo:**
+    40°C: 20% de velocidad del ventilador
+    50°C: 40% de velocidad del ventilador
+    60°C: 60% de velocidad del ventilador
+    70°C: 80% de velocidad del ventilador
+    80°C: 100% de velocidad del ventilador
    
    Asegúrate de que el flujo de aire dentro de tu gabinete sea óptimo. La ubicación y la configuración de los ventiladores de entrada y salida pueden influir significativamente en la eficiencia de enfriamiento.
    - Utiliza herramientas como HWMonitor, SpeedFan para monitorear las temperaturas y el rendimiento del sistema durante el uso normal y en situaciones de alta demanda, como juegos.

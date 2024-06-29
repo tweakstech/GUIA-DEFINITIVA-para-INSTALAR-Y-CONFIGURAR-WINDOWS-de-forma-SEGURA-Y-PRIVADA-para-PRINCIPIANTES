@@ -26,9 +26,9 @@
    - Asegúrate de configurar los ventiladores para que respondan adecuadamente a diferentes niveles de temperatura, optimizando el rendimiento de enfriamiento y minimizando el ruido.
 
 > [!IMPORTANT]
-   > La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
-   > Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
-   > Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. Por ejemplo:
+   - La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
+   - Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
+   - Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. Por ejemplo:
    
    - **40°C**: 20% de velocidad del ventilador
    - **50°C**: 40% de velocidad del ventilador
@@ -609,11 +609,11 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
    - Acepta todos los cambios y vuelve a la instalación.
 
 > [!CAUTION]
-> **REQUISITOS:**
-> **Disco Duro y USB:** Convierte ambos a GPT y crea una partición en formato exFAT.
-> **Compatibilidad:** Solo es compatible con UEFI.
-> **Espacio en Disco:** El disco de instalación debe tener más de 100 GB de espacio disponible.
-> **Unidad USB:** La unidad USB debe tener al menos 16 GB de capacidad.
+**REQUISITOS:**
+- **Disco Duro y USB:** Convierte ambos a GPT y crea una partición en formato exFAT.
+- **Compatibilidad:** Solo es compatible con UEFI.
+- **Espacio en Disco:** El disco de instalación debe tener más de 100 GB de espacio disponible.
+- **Unidad USB:** La unidad USB debe tener al menos 16 GB de capacidad.
 
 > [!NOTE]
 > Para buscar los CONTROLADORES, debes instalar los .KEXT manualmente o puedes usar [MultiBeast](https://www.multibeast.com/)o [KextUpdater](https://github.com/MacThings/kextupdater/tree/master).

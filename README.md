@@ -43,9 +43,10 @@
 
 > [!NOTE]
 > **Para modificar la curva de ventilación de tu sistema, es crucial asegurarse de que el equipo cuente con una buena refrigeración fluida. Esto implica:**
-> **Salida y entrada de aire adecuadas**: Asegúrate de que haya un flujo de aire eficiente dentro del gabinete.
-> **Buena disipación al procesador**: Utiliza disipadores de calidad y pasta térmica adecuada.
-> **Al menos 4 coolers**: Si no puedes instalar al menos cuatro ventiladores (coolers) en tu sistema, no realices modificaciones en la curva de ventilación.
+
+- **Salida y entrada de aire adecuadas**: Asegúrate de que haya un flujo de aire eficiente dentro del gabinete.
+- **Buena disipación al procesador**: Utiliza disipadores de calidad y pasta térmica adecuada.
+- **Al menos 4 coolers**: Si no puedes instalar al menos cuatro ventiladores (coolers) en tu sistema, no realices modificaciones en la curva de ventilación.
 
 ---
 

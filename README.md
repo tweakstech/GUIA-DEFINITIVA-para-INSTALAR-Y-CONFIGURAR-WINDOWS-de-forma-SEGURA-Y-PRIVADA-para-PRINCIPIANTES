@@ -300,19 +300,19 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
    - Configura Brave para optimizar la privacidad `chrome:flags`.
 
 **Basado en Chromium:**
-  - **Block Insecure Private Network Requests = enabled** - Bloquea las solicitudes de red privada insegura.
-  - **Strict-Origin-Isolation = enabled** - Aísla estrictamente el origen para mejorar la seguridad.
-  - **Experimental QUIC Protocol = enabled** - Habilita el protocolo QUIC experimental para conexiones más rápidas y seguras.
-  - **Parallel downloading = enabled** - Descarga en paralelo para mejorar la eficiencia.
-  - **Tab audio muting UI control = enabled** - Control de interfaz de usuario para silenciar el audio en las pestañas.
-  - **Tab scrolling = enabled** - Desplazamiento dentro de las pestañas para una navegación más fluida.
-  - **Allow invalid certificates for resources loaded from localhost = disabled** - No permite certificados inválidos para recursos cargados desde localhost.
+  - `Block Insecure Private Network Requests` = **enabled** - Bloquea las solicitudes de red privada insegura.
+  - `Strict-Origin-Isolation` = **enabled** - Aísla estrictamente el origen para mejorar la seguridad.
+  - `Experimental QUIC Protocol` = enabled** - Habilita el protocolo QUIC experimental para conexiones más rápidas y seguras.
+  - `Parallel downloading` = **enabled** - Descarga en paralelo para mejorar la eficiencia.
+  - `Tab audio muting UI control` = **enabled** - Control de interfaz de usuario para silenciar el audio en las pestañas.
+  - `Tab scrolling` = **enabled** - Desplazamiento dentro de las pestañas para una navegación más fluida.
+  - `Allow invalid certificates for resources loaded from localhost` = **disabled** - No permite certificados inválidos para recursos cargados desde localhost.
 
 - **Brave:**
-  - **Block Screen Fingerprinting = enabled** - Bloquea la técnica de fingerprinting de pantalla.
-  - **Use https by default = enabled** - Utiliza HTTPS de forma predeterminada para todas las conexiones.
-  - **Warn on Insecure Downloads = enabled** - Muestra advertencias cuando se descargan archivos desde conexiones no seguras.
-  - **Enable Extension Network Blocking = enabled** - Habilita el bloqueo de red para extensiones para mejorar la privacidad.
+  - `Block Screen Fingerprinting` = **enabled** - Bloquea la técnica de fingerprinting de pantalla.
+  - `Use https by default` = **nabled** - Utiliza HTTPS de forma predeterminada para todas las conexiones.
+  - `Warn on Insecure Downloads` = **enabled** - Muestra advertencias cuando se descargan archivos desde conexiones no seguras.
+  - `Enable Extension Network Blocking` = **enabled** - Habilita el bloqueo de red para extensiones para mejorar la privacidad.
 
 ---
 
@@ -322,7 +322,8 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
    - Instala la extensión AdGuard desde [MOZILLA ADD-ONS](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/). AdGuard es una extensión de bloqueo de anuncios diseñada para mejorar tu PRIVACIDAD mientras navegas por INTERNET y para bloquear anuncios molestos.
    - La mejor forma de utilizar un ADBLOCK es combinarlo con FILTROS PERSONALIZADOS para bloquear contenido no deseado de manera más EFICAZ.
 
-AdGuard Extension bloquea ANUNCIOS INTRUSIVOS, RASTREADORES EN LÍNEA, protege contra el MALWARE y mejora la PRIVACIDAD al evitar que SITIOS WEB recopilen tus DATOS PERSONALES. Además, ofrece opciones AVANZADAS para PERSONALIZAR y mejorar tu experiencia de NAVEGACIÓN.
+> [!NOTE]
+> AdGuard Extension bloquea ANUNCIOS INTRUSIVOS, RASTREADORES EN LÍNEA, protege contra el MALWARE y mejora la PRIVACIDAD al evitar que SITIOS WEB recopilen tus DATOS PERSONALES. Además, ofrece opciones AVANZADAS para PERSONALIZAR y mejorar tu experiencia de NAVEGACIÓN.
 
 ---
 
@@ -333,7 +334,8 @@ AdGuard Extension bloquea ANUNCIOS INTRUSIVOS, RASTREADORES EN LÍNEA, protege c
    - Estos motores de búsqueda no rastrean tus búsquedas ni almacenan tu INFORMACIÓN PERSONAL.
    - La mejor forma de obtener resultados precisos es buscar en **INGLÉS**, ya que SUELE HABER más INFORMACIÓN DISPONIBLE y de mejor CALIDAD.
 
-Al utilizar un buscador privado, puedes MANTENER tu PRIVACIDAD en línea y obtener resultados de búsqueda RELEVANTES sin preocuparte por el RASTREO de tus datos personales.
+> [!NOTE]
+> Al utilizar un buscador privado, puedes MANTENER tu PRIVACIDAD en línea y obtener resultados de búsqueda RELEVANTES sin preocuparte por el RASTREO de tus datos personales.
 
 ---
 
@@ -347,7 +349,8 @@ Al utilizar un buscador privado, puedes MANTENER tu PRIVACIDAD en línea y obten
    - Descarga e instala KeePass desde [SU SITIO OFICIAL](https://keepass.info/download.html).
    - Configura KeePass para almacenar tus contraseñas de forma segura.
 
-Esta recomendación asegura que tus contraseñas estén protegidas de manera adicional, manteniéndolas fuera de tu disco principal y encriptadas en caso de pérdida o robo.
+> [!NOTE]
+> Esta recomendación asegura que tus contraseñas estén protegidas de manera adicional, manteniéndolas fuera de tu disco principal y encriptadas en caso de pérdida o robo.
 
 ---
 
@@ -424,7 +427,8 @@ Esta recomendación asegura que tus contraseñas estén protegidas de manera adi
    - Herramienta de inspección de hardware
    - Agregar elementos al menú contextual del escritorio
 
-Con estas funcionalidades, Optimizer es una HERRAMIENTA ESENCIAL para cualquier usuario de Windows que busque MEJORAR LA PRIVACIDAD, SEGURIDAD Y RENDIMIENTO de su sistema.
+> [!NOTE]
+> Con estas funcionalidades, Optimizer es una HERRAMIENTA ESENCIAL para cualquier usuario de Windows que busque MEJORAR LA PRIVACIDAD, SEGURIDAD Y RENDIMIENTO de su sistema.
 
 ---
 
@@ -450,7 +454,8 @@ Con estas funcionalidades, Optimizer es una HERRAMIENTA ESENCIAL para cualquier 
    - HERRAMIENTAS DE PRUEBA DE VELOCIDAD DE INTERNET
    - AJUSTES PERSONALIZADOS PARA USUARIOS AVANZADOS
 
-Con estas funcionalidades, TCP Optimizer es una herramienta poderosa para cualquier usuario de Windows que busque mejorar la velocidad y el rendimiento de su conexión a Internet.
+> [!NOTE]
+> Con estas funcionalidades, TCP Optimizer es una herramienta poderosa para cualquier usuario de Windows que busque mejorar la velocidad y el rendimiento de su conexión a Internet.
 
 ---
 
@@ -481,7 +486,8 @@ Con estas funcionalidades, TCP Optimizer es una herramienta poderosa para cualqu
 ### 5. **REINICIAR LA COMPUTADORA:**
    - Para asegurarte de que los cambios surtan efecto, REINICIA tu computadora.
 
-Con estos pasos, habrás configurado tu adaptador de red para funcionar en modo **FULL DUPLEX**, lo que puede mejorar la EFICIENCIA y el RENDIMIENTO de tu conexión a Internet.
+> [!NOTE]
+> Con estos pasos, habrás configurado tu adaptador de red para funcionar en modo **FULL DUPLEX**, lo que puede mejorar la EFICIENCIA y el RENDIMIENTO de tu conexión a Internet.
 
 ---
 
@@ -489,22 +495,23 @@ Con estos pasos, habrás configurado tu adaptador de red para funcionar en modo 
 
 ## VPN RECOMENDADOS: SURFSHARK, PROTONVPN y NORDVPN
 
-1. **SURFSHARK VPN:**
+#### 1. **SURFSHARK VPN:**
    - Surfshark VPN ofrece una conexión SEGURA y PRIVADA a Internet con características avanzadas como CIFRADO AES-256, protección contra fugas de DNS y un interruptor de apagado automático.
    - Visita el sitio oficial de Surfshark para [DESCARGAR Surfshark VPN](https://surfshark.com/download).
    - Surfshark ofrece una versión de PAGO que incluye todas las funciones PREMIUM.
 
-2. **PROTONVPN:**
+#### 2. **PROTONVPN:**
    - ProtonVPN se centra en la PRIVACIDAD y la SEGURIDAD, ofreciendo CIFRADO FUERTE, una política estricta de NO REGISTROS y servidores SEGUROS.
    - Visita el sitio oficial de ProtonVPN para [DESCARGAR ProtonVPN](https://protonvpn.com/download).
    - ProtonVPN ofrece una versión de PAGO que incluye características avanzadas y acceso a todos los servidores.
 
-3. **NORDVPN:**
+#### 3. **NORDVPN:**
    - NordVPN es conocido por su enfoque en la PRIVACIDAD y SEGURIDAD, ofreciendo cifrado avanzado y una amplia red de servidores globales.
    - Visita el sitio oficial de NordVPN para [DESCARGAR NordVPN](https://nordvpn.com/download).
    - NordVPN ofrece opciones de suscripción premium para garantizar una conexión segura y anónima.
 
-Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGURIDAD y RENDIMIENTO. Elige el que mejor se adapte a tus necesidades y preferencias.
+> [!NOTE]
+> Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGURIDAD y RENDIMIENTO. Elige el que mejor se adapte a tus necesidades y preferencias.
 
 > [!TIP]
 > Para mejorar significativamente la SEGURIDAD de tu computadora, asegúrate de realizar las siguientes acciones:
@@ -562,8 +569,8 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
 
 > [!NOTE]
 > Estas distribuciones de LINUX son fáciles de usar y adecuadas para personas sin CONOCIMIENTOS en LÍNEA DE COMANDOS. LINUX también es conocido por ser más seguro que WINDOWS debido a su estructura y la gestión de permisos más estricta.
-> Si tienes CONOCIMIENTOS en LÍNEA DE COMANDOS usa [**DEBIAN**](https://www.debian.org).
-> Si eres más PROFESIONAL o avanzado en tus habilidades, te recomendamos usar [**PARROT OS**](https://www.parrotsec.org).
+- Si tienes CONOCIMIENTOS en LÍNEA DE COMANDOS usa [**DEBIAN**](https://www.debian.org).
+- Si eres más PROFESIONAL o avanzado en tus habilidades, te recomendamos usar [**PARROT OS**](https://www.parrotsec.org).
 
 
 
@@ -618,8 +625,8 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
 > [!NOTE]
 > Para buscar los CONTROLADORES, debes instalar los .KEXT manualmente o puedes usar [MultiBeast](https://www.multibeast.com/)o [KextUpdater](https://github.com/MacThings/kextupdater/tree/master).
 
-> Apple (Hackintosh) es compatible principalmente con PROCESADORES INTEL; AMD puede presentar muchas INCOMPATIBILIDADES.
-> Solo es compatible con UEFI.
+- Apple (Hackintosh) es compatible principalmente con PROCESADORES INTEL; AMD puede presentar muchas INCOMPATIBILIDADES.
+- Solo es compatible con UEFI.
 
 > [!CAUTION]
 > Utilizar macOS en un equipo que no es de Apple (Hackintosh) no es un método OFICIAL y puede presentar problemas de COMPATIBILIDAD y ESTABILIDAD. Además, puede estar en VIOLACIÓN de los términos de uso de Apple.

@@ -308,7 +308,7 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
   - `Tab scrolling` = **enabled** - Desplazamiento dentro de las pestañas para una navegación más fluida.
   - `Allow invalid certificates for resources loaded from localhost` = **disabled** - No permite certificados inválidos para recursos cargados desde localhost.
 
-- **Brave:**
+**Brave:**
   - `Block Screen Fingerprinting` = **enabled** - Bloquea la técnica de fingerprinting de pantalla.
   - `Use https by default` = **nabled** - Utiliza HTTPS de forma predeterminada para todas las conexiones.
   - `Warn on Insecure Downloads` = **enabled** - Muestra advertencias cuando se descargan archivos desde conexiones no seguras.

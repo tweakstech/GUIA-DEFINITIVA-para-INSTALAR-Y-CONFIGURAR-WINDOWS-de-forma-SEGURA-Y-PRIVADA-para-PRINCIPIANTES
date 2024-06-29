@@ -637,3 +637,13 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
 - Inicialmente, los ENTUSIASTAS de la informática desarrollaron MÉTODOS y HERRAMIENTAS para sortear las RESTRICCIONES impuestas por Apple, permitiendo así la instalación de macOS en hardware de PC. A lo largo del tiempo, estas herramientas han evolucionado y se han vuelto más ACCESIBLES, facilitando la creación de sistemas Hackintosh.
 
 - Los sistemas Hackintosh pueden ofrecer una ALTERNATIVA ECONÓMICA para los usuarios que desean EXPERIMENTAR o utilizar macOS en hardware de PC existente, aunque deben tenerse en cuenta las LIMITACIONES y las posibles INCOMPATIBILIDADES que pueden surgir.
+
+
+---
+
+
+## Licencia
+
+ Este proyecto se encuentra bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Consulta el archivo `LICENSE` para más detalles.
+
+© 2024 tweakstech

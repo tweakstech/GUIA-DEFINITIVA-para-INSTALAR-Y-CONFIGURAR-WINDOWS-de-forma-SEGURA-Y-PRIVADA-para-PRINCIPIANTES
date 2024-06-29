@@ -25,9 +25,10 @@
    - AJUSTA LA CURVA DE VELOCIDAD DE LOS VENTILADORES según tus preferencias o las especificaciones del fabricante.
    - Asegúrate de configurar los ventiladores para que respondan adecuadamente a diferentes niveles de temperatura, optimizando el rendimiento de enfriamiento y minimizando el ruido.
 
-   La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
-   Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
-   Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. Por ejemplo:
+> [!IMPORTANT]
+   > La curva de ventilación se configura para ajustar la velocidad de los ventiladores según la carga del sistema. Evita que funcionen a máxima velocidad constantemente, reduciendo el ruido y manteniendo los componentes frescos, especialmente bajo cargas intensas.
+   > Seleccionar un software adecuado: BIOS/UEFI, MSI Afterburner, SpeedFan, o el software de la propia placa base.
+   > Crear una curva personalizada: Configura una curva que aumente gradualmente la velocidad de los ventiladores a medida que la temperatura de los componentes sube. Por ejemplo:
    
    - **40°C**: 20% de velocidad del ventilador
    - **50°C**: 40% de velocidad del ventilador
@@ -60,7 +61,7 @@
    - Conecta una unidad USB de al menos 8 GB.
    - Ejecuta Rufus y selecciona la unidad USB.
    - Selecciona la imagen ISO de Windows descargada.
-   - Haz clic en "Iniciar" para crear el medio de instalación.
+   - Haz clic en **Iniciar** para crear el medio de instalación.
 
 ### 3. **INSTALAR WINDOWS:**
    - Inserta el USB de instalación y reinicia tu computadora.
@@ -106,7 +107,7 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 ### 6. **ACTUALIZAR WINDOWS:**
    - Después de instalar Windows, asegúrate de tener una conexión a Internet estable.
    - Ve a Configuración > Actualización y seguridad > Windows Update.
-   - Haz clic en "Buscar actualizaciones" y sigue las instrucciones para instalar las actualizaciones disponibles.
+   - Haz clic en **Buscar actualizaciones** y sigue las instrucciones para instalar las actualizaciones disponibles.
 
 ### 7. **INSTALAR CONTROLADORES IMPORTANTES:**
    - Una vez que Windows esté completamente actualizado, instala los controladores más importantes.
@@ -128,7 +129,7 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 > Verifica si hay una versión más reciente del controlador en el sitio web del fabricante del dispositivo.
 > Asegúrate de que la nueva versión sea compatible con tu SISTEMA OPERATIVO y HARDWARE.
 > Antes de actualizar, DESINSTALA la versión anterior o INSTALADA de los controladores en tu equipo para evitar problemas de CONFLICTO o INCOMPATIBILIDAD.
-> Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como "BUGS", "PROBLEMAS", etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
+> Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
 
 ---
 
@@ -137,7 +138,7 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 ### 1. **DESCARGA E INSTALACIÓN DE NINITE:**
    - Accede al sitio web de [Ninite](https://ninite.com/).
    - Selecciona los programas que deseas instalar marcando las casillas correspondientes.
-   - Haz clic en "Get Your Ninite" para descargar el instalador personalizado.
+   - Haz clic en **Get Your Ninite** para descargar el instalador personalizado.
 
 ### 2. **EJECUTAR EL INSTALADOR DE NINITE:**
    - Una vez descargado, ejecuta el instalador de Ninite.
@@ -192,9 +193,9 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 
 ### 1. **CREAR UN PUNTO DE RESTAURACIÓN INICIAL (Opcional):**
    - Después de instalar Windows, puedes crear un punto de restauración inicial.
-   - Ve a "Panel de control" > "Sistema y seguridad" > "Sistema".
-   - Haz clic en "Protección del sistema" en el panel izquierdo.
-   - En la pestaña "Protección del sistema", haz clic en "Crear" y sigue las instrucciones para crear un punto de restauración inicial.
+   - Ve a **Panel de control** > **Sistema y seguridad** > **Sistema**.
+   - Haz clic en **Protección del sistema** en el panel izquierdo.
+   - En la pestaña **Protección del sistema**, haz clic en **Crear** y sigue las instrucciones para crear un punto de restauración inicial.
 
 ### 2. **CREAR UN PUNTO DE RESTAURACIÓN DESPUÉS DE ACTUALIZACIONES Y CONTROLADORES (Recomendado):**
    - Una vez que hayas instalado todas las actualizaciones de Windows y los controladores necesarios, crea otro punto de restauración.
@@ -370,7 +371,7 @@ Esta recomendación asegura que tus contraseñas estén protegidas de manera adi
    - Asegúrate de que la opción **Integrar con el núcleo del sistema operativo y la memoria** esté activada.
 
    **¿Qué hace esta opción?**
-   - La opción **Integrar con el núcleo del sistema operativo y la memoria** se refiere a la funcionalidad de "Integridad de memoria" dentro del "Aislamiento del núcleo".
+   - La opción **Integrar con el núcleo del sistema operativo y la memoria** se refiere a la funcionalidad de **Integridad de memoria** dentro del **Aislamiento del núcleo**.
    - Esta opción ayuda a proteger los procesos críticos del sistema operativo mediante el uso de tecnologías de virtualización de hardware. Al activar esta opción, se crea una capa de aislamiento que evita que el malware y otros tipos de ataques accedan y modifiquen procesos esenciales del sistema.
 
 ## MALWAREBYTES (OPCIONAL)
@@ -433,16 +434,16 @@ Con estas funcionalidades, Optimizer es una HERRAMIENTA ESENCIAL para cualquier 
    - Ejecuta TCP Optimizer como administrador y sigue las instrucciones para configurarlo.
 
 ### 2. **CONFIGURACIÓN DE TCP OPTIMIZER:**
-   - Al abrir TCP Optimizer, asegúrate de seleccionar tu adaptador de red en la sección "Network Adapter".
-   - En la pestaña "General Settings", arrastra el control deslizante de "Connection Speed" para seleccionar la velocidad máxima de tu conexión a Internet.
-   - Elige la opción **"Optimal"** para aplicar la configuración óptima recomendada.
-   - Haz clic en "Apply Changes" y luego en "OK".
+   - Al abrir TCP Optimizer, asegúrate de seleccionar tu adaptador de red en la sección **Network Adapter**.
+   - En la pestaña **General Settings**, arrastra el control deslizante de **Connection Speed** para seleccionar la velocidad máxima de tu conexión a Internet.
+   - Elige la opción ****Optimal**** para aplicar la configuración óptima recomendada.
+   - Haz clic en **Apply Changes** y luego en **OK**.
    - Reinicia tu computadora para que los cambios surtan efecto.
 
 ### 3. **CARACTERÍSTICAS PRINCIPALES DE TCP OPTIMIZER:**
    - OPTIMIZACIÓN DE LA CONFIGURACIÓN TCP/IP
    - AJUSTES AUTOMÁTICOS DE LA CONFIGURACIÓN DE RED
-   - SELECCIÓN DE CONFIGURACIÓN "OPTIMAL" PARA MEJOR RENDIMIENTO
+   - SELECCIÓN DE CONFIGURACIÓN **OPTIMAL** PARA MEJOR RENDIMIENTO
    - COMPATIBILIDAD CON TODAS LAS VERSIONES DE WINDOWS
    - HERRAMIENTAS DE PRUEBA DE VELOCIDAD DE INTERNET
    - AJUSTES PERSONALIZADOS PARA USUARIOS AVANZADOS
@@ -543,7 +544,7 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
    - Conecta una unidad USB de al menos 8 GB.
    - Ejecuta Rufus y selecciona la unidad USB.
    - Selecciona la imagen ISO de Linux descargada.
-   - Haz clic en "Iniciar" para crear el medio de instalación.
+   - Haz clic en **Iniciar** para crear el medio de instalación.
 
    **USANDO BALENA ETCHER:**
    - Descarga Balena Etcher desde [su sitio oficial](https://www.balena.io/etcher/).
@@ -551,7 +552,7 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
    - Conecta una unidad USB de al menos 8 GB.
    - Ejecuta Balena Etcher y selecciona la imagen ISO de Linux descargada.
    - Selecciona la unidad USB como destino.
-   - Haz clic en "Flash!" para crear el medio de instalación.
+   - Haz clic en **Flash!** para crear el medio de instalación.
 
 ### 3. **INSTALAR LINUX:**
    - Inserta el USB de instalación y reinicia tu computadora.
@@ -579,7 +580,7 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
    - Configura las opciones de privacidad y seguridad según tus preferencias.
 
 ### 2. **ACTUALIZAR MACOS:**
-   - Asegúrate de que tu sistema operativo esté actualizado. Ve a "Preferencias del Sistema" > "Actualización de software" y aplica las actualizaciones disponibles.
+   - Asegúrate de que tu sistema operativo esté actualizado. Ve a **Preferencias del Sistema** > **Actualización de software** y aplica las actualizaciones disponibles.
    - Visita la página de soporte de Apple para obtener más información sobre cómo [actualizar macOS](https://support.apple.com/en-us/101578).
 
 ### 3. **INSTALACIÓN DE SOFTWARE:**
@@ -623,7 +624,7 @@ Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGUR
 
 ### ¿QUÉ ES HACKINTOSH?
 
-- **Hackintosh** es el término utilizado para describir una computadora no fabricada por Apple que se ejecuta con el sistema operativo macOS. Este término proviene de la combinación de las palabras "hack" y "Macintosh". 
+- **Hackintosh** es el término utilizado para describir una computadora no fabricada por Apple que se ejecuta con el sistema operativo macOS. Este término proviene de la combinación de las palabras **hack** y **Macintosh**. 
 
 - **Macintosh**, comúnmente abreviado como Mac, es la línea de computadoras personales diseñadas, fabricadas y vendidas por Apple Inc. desde enero de 1984. La línea de productos Macintosh de Apple es conocida por su diseño distintivo, su sistema operativo macOS y su integración de hardware y software optimizada.
 

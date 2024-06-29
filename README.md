@@ -76,7 +76,7 @@
      - Las CLAVES OEM son una solución LEGAL y SEGURA para activar tu sistema operativo.
      - Una de las PÁGINAS RECOMENDADAS para adquirir CLAVES OEM es [KEYFAN](https://www.keyfan.com).
 
-   **CÓMO INSTALAR WINDOWS:**
+   **CÓMO ACTIVAR WINDOWS:**
    1. Una vez que Windows esté instalado, ve a **Configuración** > **Actualización y seguridad** > **Activación**.
    2. Haz clic en **Cambiar la clave de producto**.
    3. Introduce tu CLAVE OEM y sigue las INSTRUCCIONES para completar la activación.

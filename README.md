@@ -126,10 +126,11 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 
 > [!CAUTION]
 > **Para evitar CONFLICTOS o INCOMPATIBILIDADES:**
-> Verifica si hay una versión más reciente del controlador en el sitio web del fabricante del dispositivo.
-> Asegúrate de que la nueva versión sea compatible con tu SISTEMA OPERATIVO y HARDWARE.
-> Antes de actualizar, DESINSTALA la versión anterior o INSTALADA de los controladores en tu equipo para evitar problemas de CONFLICTO o INCOMPATIBILIDAD.
-> Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
+
+- Verifica si hay una versión más reciente del controlador en el sitio web del fabricante del dispositivo.
+- Asegúrate de que la nueva versión sea compatible con tu SISTEMA OPERATIVO y HARDWARE.
+- Antes de actualizar, DESINSTALA la versión anterior o INSTALADA de los controladores en tu equipo para evitar problemas de CONFLICTO o INCOMPATIBILIDAD.
+- Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
 
 ---
 
@@ -220,9 +221,9 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 
 > [!IMPORTANT]
 > **EXPLICACIÓN:**
-> O&O App Buster te permite desinstalar aplicaciones y BLOATWARE que pueden venir preinstaladas en tu sistema operativo.
-> Puedes elegir desinstalar las aplicaciones para el usuario actual solamente o para todos los usuarios del equipo.
-> También tienes la opción de volver a instalar las aplicaciones desinstaladas en el futuro si así lo deseas.
+- O&O App Buster te permite desinstalar aplicaciones y BLOATWARE que pueden venir preinstaladas en tu sistema operativo.
+- Puedes elegir desinstalar las aplicaciones para el usuario actual solamente o para todos los usuarios del equipo.
+- También tienes la opción de volver a instalar las aplicaciones desinstaladas en el futuro si así lo deseas.
 
 > [!NOTE]
 > Si deseas RESTAURAR alguna APLICACIÓN en el futuro, asegúrate de DESINSTALARLA solo para el USUARIO ACTUAL y no para todo el EQUIPO.
@@ -270,7 +271,7 @@ Para actualizar Windows por primera vez y los CONTROLADORES importantes después
 > [!NOTE]
 > Asegúrate de configurar las EXCEPCIONES de los PROGRAMAS que usas habitualmente. Si no lo haces, estos PROGRAMAS no podrán acceder a INTERNET.
 
-**TINYWALL** es un FIREWALL ligero diseñado para WINDOWS que ofrece una protección eficaz sin ser intrusivo. Permite al usuario configurar reglas de FIREWALL fácilmente para controlar qué aplicaciones pueden acceder a INTERNET. Esto ayuda a asegurar la CONEXIÓN y proteger la PRIVACIDAD mientras se usa el sistema operativo WINDOWS. Al trabajar en conjunto con el FIREWALL de WINDOWS, **TINYWALL** mejora la SEGURIDAD general del sistema, proporcionando una capa adicional de protección contra AMENAZAS y accesos no autorizados.
+- **TINYWALL** es un FIREWALL ligero diseñado para WINDOWS que ofrece una protección eficaz sin ser intrusivo. Permite al usuario configurar reglas de FIREWALL fácilmente para controlar qué aplicaciones pueden acceder a INTERNET. Esto ayuda a asegurar la CONEXIÓN y proteger la PRIVACIDAD mientras se usa el sistema operativo WINDOWS. Al trabajar en conjunto con el FIREWALL de WINDOWS, **TINYWALL** mejora la SEGURIDAD general del sistema, proporcionando una capa adicional de protección contra AMENAZAS y accesos no autorizados.
 
 ---
 

@@ -93,19 +93,22 @@ Encuentra un equilibrio entre mantener tu sistema fresco y minimizar el ruido de
      - Cuando la protección con contraseña del UAC está activada y se solicita una confirmación para ejecutar una aplicación como administrador, Windows pedirá la contraseña de la cuenta de usuario para continuar, proporcionando una capa adicional de seguridad contra accesos no autorizados.
      - Para activar esta configuración, ejecuta los siguientes comandos de registro en una ventana de PowerShell o CMD con privilegios elevados:
 
-     ```PowerShell 
-     reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "1" /f
-     reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorUser" /t REG_DWORD /d "0" /f
-     ```
-     - Estos comandos establecen que se solicite la contraseña del administrador al realizar acciones que requieren permisos elevados.
+```PowerShell 
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "1" /f
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorUser" /t REG_DWORD /d "0" /f
+```
+> [!WARNING]
+> Estos comandos establecen que se solicite la contraseña del administrador al realizar acciones que requieren permisos elevados.
+```PowerShell 
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorUser" /t REG_DWORD /d "3" /f
+```
+> [!WARNING]
+> Estos comandos establecen que no se solicite la contraseña del administrador al realizar acciones que requieren permisos elevados.
 
-     ```PowerShell 
-     reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorAdmin" /t REG_DWORD /d "5" /f
-     reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "ConsentPromptBehaviorUser" /t REG_DWORD /d "3" /f
-     ```
-     - Estos comandos establecen que no se solicite la contraseña del administrador al realizar acciones que requieren permisos elevados.
+---
 
-Para actualizar Windows por primera vez y los CONTROLADORES importantes después de la instalación:
+## Para actualizar Windows por primera vez 🖥️🔄 y los 🛠️ CONTROLADORES importantes después de la instalación:
 
 ### 6. **ACTUALIZAR WINDOWS:**
    - Después de instalar Windows, asegúrate de tener una conexión a Internet estable.

@@ -139,8 +139,10 @@ reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "Con
 > - Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
 
 > [!IMPORTANT]
-> **USO DE HERRAMIENTAS DE TERCEROS:**
+**USO DE HERRAMIENTAS DE TERCEROS:**
 - Si el controlador es difícil de encontrar o proviene de fabricantes desconocidos, puedes considerar utilizar herramientas como [DriverPack](https://driverpack.io/es/catalog) para buscar y descargar el controlador en formato ZIP. Evita instalar aplicaciones adicionales que podrían contener virus o demasiada publicidad.
+
+Alternativamente, puedes utilizar [Snappy Driver](https://sdi-tool.org/download/), una herramienta que utiliza la base de datos de DriverPack y que puedes descargar para su uso offline.
 
 ---
 

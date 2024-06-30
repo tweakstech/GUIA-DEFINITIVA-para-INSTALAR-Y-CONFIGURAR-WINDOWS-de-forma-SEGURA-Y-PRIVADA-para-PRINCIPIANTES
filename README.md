@@ -108,7 +108,7 @@ reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "Con
 
 ---
 
-## Para actualizar Windows por primera vez 🖥️🔄 y los 🛠️ CONTROLADORES importantes después de la instalación:
+# Para actualizar Windows por primera vez 🖥️🔄 y los 🛠️ CONTROLADORES importantes después de la instalación:
 
 ### 6. **ACTUALIZAR WINDOWS:**
    - Después de instalar Windows, asegúrate de tener una conexión a Internet estable.

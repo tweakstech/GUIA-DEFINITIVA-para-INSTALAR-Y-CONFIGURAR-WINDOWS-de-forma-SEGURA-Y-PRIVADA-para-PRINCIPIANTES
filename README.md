@@ -325,7 +325,8 @@ reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "Con
 
 ### 3. **INSTALACIÓN DE ADGUARD:**
    - Instala la extensión AdGuard desde [MOZILLA ADD-ONS](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/). AdGuard es una extensión de bloqueo de anuncios diseñada para mejorar tu PRIVACIDAD mientras navegas por INTERNET y para bloquear anuncios molestos.
-   - La mejor forma de utilizar un ADBLOCK es combinarlo con FILTROS PERSONALIZADOS para bloquear contenido no deseado de manera más EFICAZ.
+> [!CAUTION]
+> La mejor forma de utilizar un ADBLOCK es combinarlo con FILTROS PERSONALIZADOS para bloquear contenido no deseado de manera más EFICAZ.
 
 > [!NOTE]
 > AdGuard Extension bloquea ANUNCIOS INTRUSIVOS, RASTREADORES EN LÍNEA, protege contra el MALWARE y mejora la PRIVACIDAD al evitar que SITIOS WEB recopilen tus DATOS PERSONALES. Además, ofrece opciones AVANZADAS para PERSONALIZAR y mejorar tu experiencia de NAVEGACIÓN.

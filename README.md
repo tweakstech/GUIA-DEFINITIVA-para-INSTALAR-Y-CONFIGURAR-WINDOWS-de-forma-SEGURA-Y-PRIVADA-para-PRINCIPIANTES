@@ -132,11 +132,15 @@ reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "Con
 
 > [!CAUTION]
 > **Para evitar CONFLICTOS o INCOMPATIBILIDADES:**
+>
+> - Verifica si hay una versión más reciente del controlador en el sitio web del fabricante del dispositivo.
+> - Asegúrate de que la nueva versión sea compatible con tu SISTEMA OPERATIVO y HARDWARE.
+> - Antes de actualizar, DESINSTALA la versión anterior o INSTALADA de los controladores en tu equipo para evitar problemas de CONFLICTO o INCOMPATIBILIDAD.
+> - Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
 
-- Verifica si hay una versión más reciente del controlador en el sitio web del fabricante del dispositivo.
-- Asegúrate de que la nueva versión sea compatible con tu SISTEMA OPERATIVO y HARDWARE.
-- Antes de actualizar, DESINSTALA la versión anterior o INSTALADA de los controladores en tu equipo para evitar problemas de CONFLICTO o INCOMPATIBILIDAD.
-- Busca en FOROS, REDDIT, YOUTUBE o GOOGLE la versión del controlador con palabras relacionadas como **BUGS**, **PROBLEMAS**, etc., para COMPROBAR si están REPORTANDO problemas con esos controladores.
+> [!IMPORTANT]
+> **USO DE HERRAMIENTAS DE TERCEROS:**
+- Si el controlador es difícil de encontrar o proviene de fabricantes desconocidos, puedes considerar utilizar herramientas como [DriverPack](https://driverpack.io/es/catalog) para buscar y descargar el controlador en formato ZIP. Evita instalar aplicaciones adicionales que podrían contener virus o demasiada publicidad.
 
 ---
 

@@ -39,9 +39,9 @@
     80°C: 100% de velocidad del ventilador
    
    Asegúrate de que el flujo de aire dentro de tu gabinete sea óptimo. La ubicación y la configuración de los ventiladores de entrada y salida pueden influir significativamente en la eficiencia de enfriamiento.
-   - Utiliza herramientas como HWMonitor, SpeedFan para monitorear las temperaturas y el rendimiento del sistema durante el uso normal y en situaciones de alta demanda, como juegos.
-   - Ajusta la curva de ventilación según las temperaturas observadas para asegurar que los ventiladores no giren a velocidades máximas innecesariamente, lo que puede causar ruido excesivo.
-   Encuentra un equilibrio entre mantener tu sistema fresco y minimizar el ruido del ventilador. 
+    - Utiliza herramientas como [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html), [SpeedFan](http://www.almico.com/speedfan.php) para monitorear las temperaturas y el rendimiento del sistema durante el uso normal y en situaciones de alta demanda, como juegos.
+    - Ajusta la curva de ventilación según las temperaturas observadas para asegurar que los ventiladores no giren a velocidades máximas innecesariamente, lo que puede causar ruido excesivo.
+   Encuentra un equilibrio entre mantener tu sistema fresco y minimizar el ruido del ventilador.
 
 > [!NOTE]
 > **Para modificar la curva de ventilación de tu sistema, es crucial asegurarse de que el equipo cuente con una buena refrigeración fluida. Esto implica:**

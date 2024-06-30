@@ -161,6 +161,53 @@ Alternativamente, puedes utilizar [Snappy Driver](https://sdi-tool.org/download/
    - Configura cada programa según tus preferencias después de la instalación.
    - Asegúrate de actualizar los programas a la última versión disponible.
 
+> [!TIP]
+> **SOFTWARE RECOMENDADO CON NINITE:**
+
+Web Browsers:
+- Firefox
+
+Messaging:
+- Discord
+
+Media:
+- VLC
+- K-Lite Codecs
+- Spotify
+- HandBrake
+
+Runtimes:
+- .NET 4.8
+- .NET Desktop Runtime x64 8
+- .NET Desktop Runtime 8
+- Java (AdoptOpenJDK) x64 8
+
+Imaging:
+- XnView
+
+Documents:
+- LibreOffice
+- Foxit Reader
+
+Security:
+- Malwarebytes
+- Windows Security Essentials
+
+Utilities:
+- TeraCopy
+- Glary Utilities
+- WinDirStat
+- ImgBurn
+
+Compression:
+- 7-Zip
+
+Developer Tools:
+- Python x64 3
+- FileZilla
+- Notepad++
+- Visual Studio Code
+
 ### **APLICACIONES RECOMENDADAS PARA EL SISTEMA:**
 
 #### **MULTIMEDIA:**

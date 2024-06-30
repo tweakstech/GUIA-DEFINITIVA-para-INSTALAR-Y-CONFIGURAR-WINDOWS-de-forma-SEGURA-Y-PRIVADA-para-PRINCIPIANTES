@@ -341,6 +341,28 @@ Developer Tools:
 
 ---
 
+## LIMPIEZA Y OPTIMIZACIÓN DEL SISTEMA 💻
+
+- Para mantener tu sistema limpio y optimizado, sigue estos pasos:
+
+> [!NOTE]
+> Recuerda hacer copias de seguridad de los archivos importantes antes de realizar cualquier limpieza o modificación en el sistema.
+
+- **Limpieza de Archivos Basura y Optimización:**
+  - Utiliza herramientas como [Glary Utilities](https://www.glarysoft.com/glary-utilities/) para limpiar archivos basura.
+  - Usa [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/content/Download-Display-Driver-Uninstaller-DDU-18077) para eliminar controladores antiguos antes de instalar nuevos.
+  - Aplicaciones como [Revo Uninstaller](https://www.revouninstaller.com/) y [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php) para desinstalar aplicaciones que ya no utilizas.
+
+- **Limpieza Manual:**
+  - Elimina archivos temporales del sistema (`C:\Windows\Temp` y `%temp%`).
+  - Limpia la carpeta de descargas de actualizaciones instaladas (`C:\Windows\SoftwareDistribution\Download`).
+  - Vacía la carpeta de caché y logs (`C:\Windows\Logs`), con precaución para no eliminar registros importantes si no tienes conocimiento de su función. Si no entiendes para qué son los archivos de logs, es mejor no modificarlos.
+
+- **Optimización Adicional:**
+  - Limpia los archivos basura de Prefetch ocasionalmente para mejorar el rendimiento del inicio (`C:\Windows\Prefetch`). No lo hagas diariamente, ya que los archivos Prefetch ayudan a cargar aplicaciones y páginas más rápido.
+
+---
+
 # Asegurar y Privatizar 🔒🕶️
 
 ## TINYWALL

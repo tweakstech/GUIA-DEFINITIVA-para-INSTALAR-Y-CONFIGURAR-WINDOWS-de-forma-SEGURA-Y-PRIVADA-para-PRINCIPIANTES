@@ -271,6 +271,25 @@ Developer Tools:
 
 ---
 
+# PROTEGE TUS DATOS con un BACKUP REGULAR 💾
+
+> [!WARNING]
+> **CREACIÓN DE BACKUP DEL SISTEMA:**
+
+- Para mantener segura tu información, se recomienda crear un backup de tu sistema regularmente. 
+
+1. Crea un backup de tu sistema cada semana, preferiblemente los viernes después del horario de trabajo o al finalizar el uso diario.
+2. No dependas de un solo backup; es recomendable tener varios backups guardados.
+3. Prueba el backup creado para asegurarte de que los datos están seguros y accesibles.
+4. Utiliza un disco secundario o externo para almacenar el backup.
+
+- Puedes utilizar la función de backup integrada en Windows o una aplicación como [Paragon Backup & Recovery](https://www.paragon-software.com/).
+
+> [!NOTE]
+> Recuerda que mantener backups regulares ayuda a proteger tu información en caso de pérdida de datos.
+
+---
+
 # Limpiar de Bloatware 🧹
 
 ## O&O APP BUSTER

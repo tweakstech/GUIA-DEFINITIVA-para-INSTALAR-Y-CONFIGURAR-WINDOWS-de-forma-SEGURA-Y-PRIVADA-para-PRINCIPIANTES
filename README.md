@@ -208,7 +208,8 @@ Developer Tools:
 - Notepad++
 - Visual Studio Code
 
-### **APLICACIONES RECOMENDADAS PARA EL SISTEMA:**
+> [!TIP]
+> **APLICACIONES RECOMENDADAS PARA EL SISTEMA:**
 
 #### **MULTIMEDIA:**
   - [VLC Media Player](https://www.videolan.org/vlc/index.es.html) - Reproductor multimedia versátil y gratuito.

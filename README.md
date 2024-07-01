@@ -609,6 +609,35 @@ Developer Tools:
 > [!NOTE]
 > Con estos pasos, habrás configurado tu adaptador de red para funcionar en modo **FULL DUPLEX**, lo que puede mejorar la EFICIENCIA y el RENDIMIENTO de tu conexión a Internet.
 
+
+---
+
+# DNSJumper
+
+> [!NOTE]
+> **Nota importante sobre DNSJumper:**
+> DNSJumper es una herramienta útil para cambiar rápidamente los servidores DNS en Windows. Aquí hay algunos puntos clave a tener en cuenta al usar DNSJumper:
+
+- **Facilidad de uso:** DNSJumper permite cambiar los servidores DNS con un solo clic, facilitando la optimización de la velocidad y la privacidad de la conexión a Internet.
+  
+- **Personalización avanzada:** Permite la configuración manual de servidores DNS específicos, incluyendo opciones de seguridad y rendimiento.
+
+- **Compatibilidad:** Funciona con varias versiones de Windows, proporcionando flexibilidad para diferentes configuraciones de red.
+
+- **Seguridad:** Asegúrate de usar servidores DNS confiables y seguros para proteger tu privacidad y seguridad en línea.
+
+- **Actualizaciones:** Es recomendable verificar y actualizar regularmente la lista de servidores DNS disponibles dentro de la herramienta para mantener un rendimiento óptimo.
+
+## Uso de DNSJumper
+
+1. Descarga y ejecuta DNSJumper desde el [sitio web oficial de DNSJumper](https://www.sordum.org/7952/dns-jumper-v2-2/).
+2. Selecciona un servidor DNS de la lista o añade manualmente uno nuevo.
+3. Aplica los cambios haciendo clic en "Apply DNS."
+
+> [!WARNING]
+> **Advertencia sobre DNSJumper:**
+> Asegúrate de descargar DNSJumper solo desde fuentes confiables para evitar versiones modificadas o malware.
+
 ---
 
 # VPN Recomendados 🔒🌐

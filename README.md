@@ -9,7 +9,7 @@
 
 1. [Configuración de la BIOS](#configuraci%C3%B3n-de-la-bios-%EF%B8%8F)
 2. [Instalación de Windows](#instalaci%C3%B3n-de-windows-%EF%B8%8F)
-3. [Actualizar Windows](#para-actualizar-windows-por-primera-vez-%EF%B8%8F-y-los-%EF%B8%8F-controladores-importantes-despu%C3%A9s-de-la-instalaci%C3%B3n)
+3. [Para actualizar Windows por primera vez y los CONTROLADORES importantes después de la instalación](#para-actualizar-windows-por-primera-vez-%EF%B8%8F-y-los-%EF%B8%8F-controladores-importantes-despu%C3%A9s-de-la-instalaci%C3%B3n)
 4. [INSTALACIÓN DE PROGRAMAS NECESARIOS CON NINITE](#instalaci%C3%B3n-de-programas-necesarios-con-ninite-%EF%B8%8F)
 5. [CREACIÓN DE PUNTOS DE RESTAURACIÓN](#creaci%C3%B3n-de-puntos-de-restauraci%C3%B3n-)
 6. [PROTEGE TUS DATOS con un BACKUP REGULAR](#protege-tus-datos-con-un-backup-regular-)

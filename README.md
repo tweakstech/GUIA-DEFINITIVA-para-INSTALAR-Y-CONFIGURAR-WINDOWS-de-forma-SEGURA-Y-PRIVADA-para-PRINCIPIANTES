@@ -163,6 +163,18 @@ reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "Con
 
 Alternativamente, puedes utilizar [Snappy Driver](https://sdi-tool.org/download/), una herramienta que utiliza la base de datos de DriverPack y que puedes descargar para su uso offline.
 
+> [!WARNING]
+> **Advertencia sobre la instalación de controladores desde Windows Update:**
+> Al considerar la instalación de controladores desde Windows Update, ten en cuenta lo siguiente:
+
+- Si decides instalar un controlador a través de Windows Update, es crucial verificar la versión que tienes actualmente instalada y la que Windows desea instalar. Si seleccionas la opción de instalar desde Windows Update, le estás dando permiso a Windows para realizar la instalación sin considerar si es la versión más adecuada para tu sistema en ese momento.
+
+- Existe el riesgo de que, si ya tienes una versión más reciente del controlador instalada en tu sistema, Windows Update podría intentar instalar una versión más antigua, lo cual podría afectar el rendimiento o la funcionalidad de tu hardware.
+
+- En cambio, al descargar e instalar el controlador directamente desde el sitio web del fabricante, tendrás la oportunidad de verificar si es una versión más reciente o más antigua que la que tienes actualmente. El instalador del fabricante generalmente te alertará si estás intentando instalar una versión más antigua y te dará la opción de proceder o no con la instalación.
+
+Es recomendable siempre verificar y comparar las versiones antes de proceder con la instalación para asegurar la compatibilidad y el rendimiento óptimo de tu hardware.
+
 ---
 
 # INSTALACIÓN DE PROGRAMAS NECESARIOS CON NINITE 🛠️

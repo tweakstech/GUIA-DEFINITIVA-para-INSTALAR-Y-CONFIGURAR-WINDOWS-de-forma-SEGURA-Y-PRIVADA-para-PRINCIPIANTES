@@ -650,6 +650,9 @@ Developer Tools:
 - **NUNCA ejecutes archivos PDF de DESCONOCIDOS:** Los PDF pueden ejecutar CÓDIGO MALICIOSO por atrás, representando un riesgo de SEGURIDAD.
 - **PRECAUCIÓN con ARCHIVOS COMPRIMIDOS con CONTRASEÑAS:** Los archivos comprimidos con contraseñas generalmente se utilizan para que los ANÁLISIS de antivirus no detecten el ARCHIVO MALICIOSO.
 - **NO ESCANEES códigos QR de origen desconocido:** Los códigos QR pueden contener enlaces a sitios maliciosos o ejecutar acciones no deseadas en tu dispositivo, comprometiendo tu SEGURIDAD DIGITAL. Siempre verifica la fuente y asegúrate de la confiabilidad antes de escanear cualquier código QR.
+- **VERIFICA los ENLACES antes de hacer clic:** Asegúrate de que los enlaces sean seguros y provengan de fuentes confiables para evitar sitios maliciosos.
+- **VERIFICA los CORREOS ENVIADOS:** Revisa cuidadosamente los correos electrónicos enviados para evitar enviar información a destinatarios incorrectos.
+- **NO ACEPTES solicitudes no solicitadas:** Si no has solicitado algo, es mejor no aceptar ni interactuar con ello para evitar posibles fraudes o riesgos de seguridad.
 
 > [!IMPORTANT]
 > Aunque estas prácticas son importantes, es esencial entender que la SEGURIDAD no puede garantizarse al 100%. Siempre debes seguir BUENAS PRÁCTICAS DE SEGURIDAD DIGITAL, como mantener tus programas ACTUALIZADOS, evitar hacer clic en ENLACES DESCONOCIDOS o sospechosos, y tener cuidado con los archivos que descargas.

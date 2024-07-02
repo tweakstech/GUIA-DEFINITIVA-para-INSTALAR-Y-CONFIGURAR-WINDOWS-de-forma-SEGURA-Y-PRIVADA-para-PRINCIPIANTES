@@ -355,10 +355,16 @@ Developer Tools:
 
 ## LIMPIEZA Y OPTIMIZACIÓN DEL SISTEMA 💻
 
-- Para mantener tu sistema limpio y optimizado, sigue estos pasos:
+Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 
 > [!NOTE]
 > Recuerda hacer copias de seguridad de los archivos importantes antes de realizar cualquier limpieza o modificación en el sistema.
+
+- **Liberador de Espacio en Disco:**
+  - Utiliza el comando `cleanmgr` en el **Símbolo del sistema** (CMD) o en el **Ejecutar** (Windows + R) para abrir el Liberador de espacio en disco integrado en Windows y eliminar archivos temporales y liberar espacio en tu unidad principal.
+
+- **Configuración de Almacenamiento:**
+  - Utiliza el comando `ms-settings:storagesense` en el **Ejecutar** (Windows + R) para abrir la Configuración de Almacenamiento en Windows y gestionar el espacio en disco, eliminar archivos temporales y optimizar el almacenamiento de manera eficiente.
 
 - **Limpieza de Archivos Basura y Optimización:**
   - Utiliza herramientas como [Glary Utilities](https://www.glarysoft.com/glary-utilities/) para limpiar archivos basura.

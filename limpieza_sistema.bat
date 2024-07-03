@@ -26,7 +26,8 @@ echo Vaciar la carpeta de caché y logs con precaución...
 echo Asegúrate de no eliminar registros importantes si no comprendes su función.
 pause
 del /q C:\Windows\Logs\*.*
-echo Carpeta de logs vaciada.
+del /q C:\Windows\System32\LogFiles\*.* 
+echo Carpetas de logs vaciadas.
 
 echo Optimización adicional:
 echo Limpieza de archivos basura de Prefetch para mejorar el rendimiento del inicio...

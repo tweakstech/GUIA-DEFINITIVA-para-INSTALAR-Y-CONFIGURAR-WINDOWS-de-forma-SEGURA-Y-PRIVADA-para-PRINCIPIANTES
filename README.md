@@ -21,6 +21,7 @@
 12. [VPN Recomendados](#vpn-recomendados-)
 13. [OPCIÓN ALTERNATIVA: INSTALAR LINUX MINT O UBUNTU](#opci%C3%B3n-alternativa-instalar-linux-mint-o-ubuntu-)
 14. [OPCIÓN PARA USUARIOS CON DINERO: USAR macOS](#opci%C3%B3n-para-usuarios-con-dinero-usar-macos-)
+15. [OPCIÓN ALTERNATIVA: INSTALAR LOCO OS](#opci%C3%B3n-alternativa-instalar-loco-os-)
 
 ---
 
@@ -824,6 +825,35 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 - Inicialmente, los ENTUSIASTAS de la informática desarrollaron MÉTODOS y HERRAMIENTAS para sortear las RESTRICCIONES impuestas por Apple, permitiendo así la instalación de macOS en hardware de PC. A lo largo del tiempo, estas herramientas han evolucionado y se han vuelto más ACCESIBLES, facilitando la creación de sistemas Hackintosh.
 
 - Los sistemas Hackintosh pueden ofrecer una ALTERNATIVA ECONÓMICA para los usuarios que desean EXPERIMENTAR o utilizar macOS en hardware de PC existente, aunque deben tenerse en cuenta las LIMITACIONES y las posibles INCOMPATIBILIDADES que pueden surgir.
+
+
+
+
+
+# OPCIÓN ALTERNATIVA: INSTALAR LOCO OS 🌐💻
+
+- Si estás buscando revivir una PC antigua de manera sencilla y eficiente, considera instalar Loco OS. Esta distribución está diseñada para ofrecer un rendimiento óptimo en hardware más antiguo, sin sacrificar funcionalidad.
+
+### 1. **DESCARGA DE LOCO OS:**
+   - Visita el [sitio oficial de Loco OS](https://loc-os.com/) para descargar la imagen de instalación.
+
+### 2. **CREAR UN MEDIO DE INSTALACIÓN:**
+
+   **USANDO UNA UNIDAD USB:**
+   - Conecta una unidad USB de al menos 4 GB.
+   - Descarga y ejecuta una herramienta de creación de medios como Rufus desde [su sitio oficial](https://rufus.ie/).
+   - Selecciona la unidad USB y la imagen ISO de Loco OS descargada.
+   - Haz clic en **Iniciar** para crear el medio de instalación.
+
+   **USANDO OTRA HERRAMIENTA DE CREACIÓN:**
+   - Alternativamente, puedes usar herramientas como Balena Etcher o cualquier otra compatible con imágenes ISO para crear el medio de instalación.
+
+### 3. **INSTALAR LOCO OS:**
+   - Inserta el USB de instalación en tu PC antigua y enciéndela.
+   - Sigue las instrucciones en pantalla para iniciar el proceso de instalación de Loco OS.
+
+> [!NOTE]
+> Loco OS está optimizado para ofrecer un rendimiento fluido en hardware más antiguo, ofreciendo una alternativa ligera y eficiente para usuarios que buscan una experiencia de uso moderna sin necesidad de recursos elevados.
 
 
 ---

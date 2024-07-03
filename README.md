@@ -375,9 +375,16 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
   - Elimina archivos temporales del sistema (`C:\Windows\Temp` y `%temp%`).
   - Limpia la carpeta de descargas de actualizaciones instaladas (`C:\Windows\SoftwareDistribution\Download`).
   - Vacía la carpeta de caché y logs (`C:\Windows\Logs`), con precaución para no eliminar registros importantes si no tienes conocimiento de su función. Si no entiendes para qué son los archivos de logs, es mejor no modificarlos.
+  - Vacía la carpeta de logs generados por el sistema en `C:\Windows\System32\LogFiles`, que contienen registros de eventos y errores del sistema operativo Windows.
+
+> [!WARNING]  
+> Es seguro vaciar esta carpeta periódicamente para liberar espacio en disco, pero es importante revisar los registros antes de eliminarlos para asegurarte de no perder información crítica de diagnóstico.
 
 - **Optimización Adicional:**
-  - Limpia los archivos basura de Prefetch ocasionalmente para mejorar el rendimiento del inicio (`C:\Windows\Prefetch`). No lo hagas diariamente, ya que los archivos Prefetch ayudan a cargar aplicaciones y páginas más rápido.
+  - Limpia los archivos basura de Prefetch ocasionalmente para mejorar el rendimiento del inicio (`C:\Windows\Prefetch`). 
+
+> [!WARNING]  
+> No lo hagas diariamente, ya que los archivos Prefetch ayudan a cargar aplicaciones y páginas más rápido.
 
 ---
 

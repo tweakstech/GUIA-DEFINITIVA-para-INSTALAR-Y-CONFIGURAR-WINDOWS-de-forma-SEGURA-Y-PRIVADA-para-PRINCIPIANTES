@@ -386,6 +386,9 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 > [!WARNING]  
 > No lo hagas diariamente, ya que los archivos Prefetch ayudan a cargar aplicaciones y páginas más rápido.
 
+> [!NOTE]
+- Además, como opción avanzada y más fácil de usar, considera utilizar [Cleanmgr Plus](https://github.com/builtbybel/CleanmgrPlus) para combinar y simplificar estos métodos de limpieza y optimización.
+
 ---
 
 # Asegurar y Privatizar 🔒🕶️

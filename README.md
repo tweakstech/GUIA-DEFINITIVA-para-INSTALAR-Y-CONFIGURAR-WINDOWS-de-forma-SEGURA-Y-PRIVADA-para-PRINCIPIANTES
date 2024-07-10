@@ -493,10 +493,15 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 ### 5. **RECOMENDACIÓN DE SEGURIDAD:**
    - Para una mayor seguridad, utiliza otro disco duro externo o unidad USB para almacenar la base de datos de KeePass.
    - Cifra esta unidad externa con herramientas como BitLocker (para Windows) o [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) (multiplataforma) antes de guardar la base de datos.
+   - No uses autocompletado del navegador.
+   - No uses extensiones de autocompletado.
+   - No uses clientes desconocidos, solo los oficiales de KeePass.
+   - Crea copias de los backups creados en un pendrive por si se rompen los backups del disco.
 
 ### 6. **DESCARGA E INSTALACIÓN DE KEEPASS:**
    - Descarga e instala KeePass desde [SU SITIO OFICIAL](https://keepass.info/download.html).
    - Configura KeePass para almacenar tus contraseñas de forma segura.
+   - Separa las bases de datos para aislar las configuraciones creando capas de seguridad adicionales.
 
 > [!NOTE]
 > Esta recomendación asegura que tus contraseñas estén protegidas de manera adicional, manteniéndolas fuera de tu disco principal y encriptadas en caso de pérdida o robo.

@@ -9,7 +9,7 @@
 
 1. [Configuración de la BIOS](#configuraci%C3%B3n-de-la-bios-%EF%B8%8F)
 2. [Instalación de Windows](#instalaci%C3%B3n-de-windows-%EF%B8%8F)
-3. [Para actualizar Windows por primera vez y los CONTROLADORES importantes después de la instalación](#para-actualizar-windows-por-primera-vez-%EF%B8%8F-y-los-%EF%B8%8F-controladores-importantes-despu%C3%A9s-de-la-instalaci%C3%B3n)
+3. [Actualizar Windows](#para-actualizar-windows-por-primera-vez-%EF%B8%8F-y-los-%EF%B8%8F-controladores-importantes-despu%C3%A9s-de-la-instalaci%C3%B3n)
 4. [INSTALACIÓN DE PROGRAMAS NECESARIOS CON NINITE](#instalaci%C3%B3n-de-programas-necesarios-con-ninite-%EF%B8%8F)
 5. [CREACIÓN DE PUNTOS DE RESTAURACIÓN](#creaci%C3%B3n-de-puntos-de-restauraci%C3%B3n-)
 6. [PROTEGE TUS DATOS con un BACKUP REGULAR](#protege-tus-datos-con-un-backup-regular-)
@@ -388,7 +388,7 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 > No lo hagas diariamente, ya que los archivos Prefetch ayudan a cargar aplicaciones y páginas más rápido.
 
 > [!NOTE]
-> Además, como opción avanzada y más fácil de usar, considera utilizar [Cleanmgr Plus](https://github.com/builtbybel/CleanmgrPlus) para combinar y simplificar estos métodos de limpieza y optimización.
+- Además, como opción avanzada y más fácil de usar, considera utilizar [Cleanmgr Plus](https://github.com/builtbybel/CleanmgrPlus) para combinar y simplificar estos métodos de limpieza y optimización.
 
 ---
 
@@ -613,6 +613,34 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 
 ---
 
+# DNSJumper
+
+> [!NOTE]
+> **Nota importante sobre DNSJumper:**
+> DNSJumper es una herramienta útil para cambiar rápidamente los servidores DNS en Windows. Aquí hay algunos puntos clave a tener en cuenta al usar DNSJumper:
+
+- **Facilidad de uso:** DNSJumper permite cambiar los servidores DNS con un solo clic, facilitando la optimización de la velocidad y la privacidad de la conexión a Internet.
+  
+- **Personalización avanzada:** Permite la configuración manual de servidores DNS específicos, incluyendo opciones de seguridad y rendimiento.
+
+- **Compatibilidad:** Funciona con varias versiones de Windows, proporcionando flexibilidad para diferentes configuraciones de red.
+
+- **Seguridad:** Asegúrate de usar servidores DNS confiables y seguros para proteger tu privacidad y seguridad en línea.
+
+- **Actualizaciones:** Es recomendable verificar y actualizar regularmente la lista de servidores DNS disponibles dentro de la herramienta para mantener un rendimiento óptimo.
+
+## Uso de DNSJumper
+
+1. Descarga y ejecuta DNSJumper desde el [sitio web oficial de DNSJumper](https://www.sordum.org/7952/dns-jumper-v2-2/).
+2. Selecciona un servidor DNS de la lista o añade manualmente uno nuevo.
+3. Aplica los cambios haciendo clic en "Apply DNS."
+
+> [!WARNING]
+> **Advertencia sobre DNSJumper:**
+> Asegúrate de descargar DNSJumper solo desde fuentes confiables para evitar versiones modificadas o malware.
+
+---
+
 ## CONFIGURACIÓN DEL ADAPTADOR DE RED EN FULL DUPLEX
 
 ### 1. **ABRIR EL ADMINISTRADOR DE DISPOSITIVOS:**
@@ -643,35 +671,6 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 > [!NOTE]
 > Con estos pasos, habrás configurado tu adaptador de red para funcionar en modo **FULL DUPLEX**, lo que puede mejorar la EFICIENCIA y el RENDIMIENTO de tu conexión a Internet.
 
-
----
-
-# DNSJumper
-
-> [!NOTE]
-> **Nota importante sobre DNSJumper:**
-> DNSJumper es una herramienta útil para cambiar rápidamente los servidores DNS en Windows. Aquí hay algunos puntos clave a tener en cuenta al usar DNSJumper:
-
-- **Facilidad de uso:** DNSJumper permite cambiar los servidores DNS con un solo clic, facilitando la optimización de la velocidad y la privacidad de la conexión a Internet.
-  
-- **Personalización avanzada:** Permite la configuración manual de servidores DNS específicos, incluyendo opciones de seguridad y rendimiento.
-
-- **Compatibilidad:** Funciona con varias versiones de Windows, proporcionando flexibilidad para diferentes configuraciones de red.
-
-- **Seguridad:** Asegúrate de usar servidores DNS confiables y seguros para proteger tu privacidad y seguridad en línea.
-
-- **Actualizaciones:** Es recomendable verificar y actualizar regularmente la lista de servidores DNS disponibles dentro de la herramienta para mantener un rendimiento óptimo.
-
-## Uso de DNSJumper
-
-1. Descarga y ejecuta DNSJumper desde el [sitio web oficial de DNSJumper](https://www.sordum.org/7952/dns-jumper-v2-2/).
-2. Selecciona un servidor DNS de la lista o añade manualmente uno nuevo.
-3. Aplica los cambios haciendo clic en "Apply DNS."
-
-> [!WARNING]
-> **Advertencia sobre DNSJumper:**
-> Asegúrate de descargar DNSJumper solo desde fuentes confiables para evitar versiones modificadas o malware.
-
 ---
 
 # VPN Recomendados 🔒🌐
@@ -694,7 +693,10 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
    - NordVPN ofrece opciones de suscripción premium para garantizar una conexión segura y anónima.
 
 > [!NOTE]
-> Estos tres servicios VPN son RECOMENDADOS por su enfoque en la PRIVACIDAD, SEGURIDAD y RENDIMIENTO. Elige el que mejor se adapte a tus necesidades y preferencias.
+> Para maximizar tu privacidad, se recomienda usar servidores VPN ubicados en países con políticas de privacidad estrictas como Suiza, Islandia, Suecia, Noruega, y Finlandia. Estos países tienen leyes de protección de datos más robustas que pueden ofrecerte una mayor seguridad.
+
+> [!TIP]
+> Es preferible utilizar servicios VPN que se ejecuten en la memoria RAM de los servidores. Esto asegura que cualquier dato o registro se elimine automáticamente cada vez que los servidores se reinicien, mejorando significativamente tu privacidad y seguridad.
 
 > [!TIP]
 > Para mejorar significativamente la SEGURIDAD de tu computadora, asegúrate de realizar las siguientes acciones:
@@ -859,6 +861,8 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 
 > [!NOTE]
 > Loco OS está optimizado para ofrecer un rendimiento fluido en hardware más antiguo, ofreciendo una alternativa ligera y eficiente para usuarios que buscan una experiencia de uso moderna sin necesidad de recursos elevados.
+
+
 
 
 ---

@@ -629,6 +629,9 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 
 - **Actualizaciones:** Es recomendable verificar y actualizar regularmente la lista de servidores DNS disponibles dentro de la herramienta para mantener un rendimiento óptimo.
 
+> [!TIP]
+> Para mejorar la velocidad de conexión, si estás en Latinoamérica, se recomienda usar los servidores DNS de Google (`8.8.8.8` y `8.8.4.4`). Si estás en Europa, opta por los servidores DNS de Cloudflare (`1.1.1.1` y `1.0.0.1`). Para mayor privacidad, utiliza los servidores DNS de Quad9 (`9.9.9.9` y `149.112.112.112`), que bloquean sitios maliciosos y protegen tu privacidad.
+
 ## Uso de DNSJumper
 
 1. Descarga y ejecuta DNSJumper desde el [sitio web oficial de DNSJumper](https://www.sordum.org/7952/dns-jumper-v2-2/).

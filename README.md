@@ -78,6 +78,9 @@ Encuentra un equilibrio entre mantener tu sistema fresco y minimizar el ruido de
 
 ### 1. **DESCARGA DE WINDOWS:**
    - Descarga la herramienta de creación de medios de Microsoft desde [WINDOWS 10](https://www.microsoft.com/es-es/software-download/windows10) o [WINDOWS 11](https://www.microsoft.com/es-es/software-download/windows11), según la versión que desees instalar.
+   - **Recomendación:** Se recomienda la versión **Windows LTSC** o **Windows 11 LTSC**. Estas versiones cuentan con menos características innecesarias (sin bloatware), las actualizaciones serán solo de seguridad, no te instalarán funciones adicionales no deseadas, y ofrecen soporte extendido de hasta 10 años. Puedes descargar la versión LTSC desde:
+     - [Windows 10 LTSC](https://www.microsoft.com/es-es/evalcenter/download-windows-10-enterprise)
+     - [Windows 11 LTSC](https://www.microsoft.com/es-es/evalcenter/download-windows-11-enterprise)
 
 ### 2. **CREAR UN MEDIO DE INSTALACIÓN CON RUFUS:**
    - Descarga Rufus desde [SU SITIO OFICIAL](https://rufus.ie/).

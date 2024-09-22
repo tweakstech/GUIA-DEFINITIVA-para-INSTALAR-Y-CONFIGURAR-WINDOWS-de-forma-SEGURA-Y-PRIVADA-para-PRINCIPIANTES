@@ -34,6 +34,18 @@
    - Activa el perfil XMP adecuado según las especificaciones de tu memoria para asegurar un funcionamiento óptimo.
    - Las MEMORIAS vienen a unas VELOCIDADES ESTÁNDAR que funcionan en promedio a unas VELOCIDADES MÍNIMAS especificadas. Esto permite que funcionen a las MÁXIMAS VELOCIDADES para las que fueron fabricadas.
 
+> [!NOTE]
+> Activar un perfil XMP puede mejorar significativamente el rendimiento de tu memoria RAM ajustándola a las especificaciones máximas para las que fue diseñada.
+
+> [!WARNING]
+> Activar un perfil XMP puede aumentar la temperatura de los componentes. Si no tienes una adecuada refrigeración o disipador, toma precauciones, ya que un aumento de temperatura podría afectar la estabilidad del sistema.
+
+> [!CAUTION]
+> Los perfiles XMP pueden no ser compatibles con todas las memorias RAM. Si experimentas inestabilidad, fallos o bloqueos, desactiva el perfil o prueba con otros perfiles disponibles en la BIOS.
+
+> [!IMPORTANT]
+> Los perfiles XMP ajustan parámetros avanzados como las latencias, frecuencias y voltajes de la memoria. Si las configuraciones del perfil superan lo soportado por tu RAM, podrías experimentar fallos o inestabilidad. Es importante elegir un perfil adecuado a las especificaciones de tu memoria.
+
 ### 2. CONFIGURA LAS MEMORIAS EN MODO DUAL CHANNEL (SI LA PLACA BASE ES COMPATIBLE)
    - DUAL CHANNEL es una configuración que permite a la PLACA BASE acceder simultáneamente a dos módulos de memoria RAM, mejorando el RENDIMIENTO GENERAL del sistema.
    - ASEGÚRATE de que las MEMORIAS estén correctamente instaladas en los SLOTS recomendados para DUAL CHANNEL (generalmente en los slots 2 y 4 o 1 y 3, que en la mayoría de los casos tienen OTRO COLOR).

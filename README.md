@@ -566,38 +566,42 @@ Para mantener tu sistema limpio y optimizado, sigue estos pasos:
 
 # Optimizar Windows 🚀💻
 
-## OPTIMIZER
+# WINSCRIPT
 
-### 1. **DESCARGA E INSTALACIÓN DE OPTIMIZER:**
-   - Optimizer es una UTILIDAD AVANZADA DE CONFIGURACIÓN diseñada para MEJORAR TU PRIVACIDAD Y SEGURIDAD en Windows. Esta herramienta es altamente recomendada para usar después de una instalación fresca de Windows para lograr beneficios máximos en PRIVACIDAD Y SEGURIDAD.
-   - Descarga Optimizer desde [SU SITIO OFICIAL](https://www.github.com/hellzerg/optimizer).
-   - Instala Optimizer y sigue las instrucciones para CONFIGURARLO SEGÚN TUS NECESIDADES.
+### 1. **DESCARGA E INSTALACION DE WINSCRIPT:**
 
-### 2. **Características principales de Optimizer:**
-   - Soporte multilingüe completo (24 idiomas disponibles)
-   - Mejora del rendimiento del sistema y la red
-   - Deshabilitar servicios innecesarios de Windows
-   - Desactivar la telemetría de Windows, Cortana y más
-   - Desactivar la telemetría de Office (funciona con Office 2016 o versiones más nuevas)
-   - Detener actualizaciones automáticas de Windows 10/11
-   - Descargar múltiples aplicaciones útiles rápidamente
-   - Deshabilitar CoPilot AI en Windows 11 y Edge
-   - Habilitar hora UTC globalmente
-   - Ajustes avanzados como deshabilitar HPET, OneDrive, etc.
-   - Desinstalar aplicaciones UWP
-   - Limpiar la unidad del sistema y perfiles del navegador
-   - Corregir problemas comunes del registro
-   - Hacer ping a IPs y evaluar la latencia
-   - Cambiar rápidamente el servidor DNS (de una lista predefinida)
-   - Vaciar la caché de DNS
-   - Eliminar programas de inicio no deseados
-   - Editar tu archivo HOSTS
-   - Identificar y terminar manejadores de bloqueo de archivos
-   - Herramienta de inspección de hardware
-   - Agregar elementos al menú contextual del escritorio
+* WinScript es una **HERRAMIENTA DE CODIGO ABIERTO** diseñada para **PERSONALIZAR, OPTIMIZAR Y CONFIGURAR WINDOWS** segun las necesidades del usuario.
+* Permite eliminar aplicaciones y componentes innecesarios, mejorar la privacidad, aplicar ajustes de rendimiento e instalar multiples aplicaciones.
+* Tambien permite crear una configuracion personalizada para automatizar una instalacion de Windows.
+* Puedes obtener WinScript desde su repositorio oficial en [GitHub - flick9000/winscript](https://github.com/flick9000/winscript).
+* Antes de aplicar cambios, es recomendable revisar cuidadosamente cada opcion y seleccionar solamente las configuraciones que necesites.
+
+### 2. **CARACTERISTICAS PRINCIPALES DE WINSCRIPT:**
+
+* Eliminar **BLOATWARE** y aplicaciones preinstaladas de Windows.
+* Desinstalar o eliminar componentes como **Microsoft Store, OneDrive, Copilot y Edge**, segun la configuracion seleccionada.
+* Deshabilitar funciones innecesarias como **Widgets, Recall y Consumer Features**.
+* Mejorar la **PRIVACIDAD** de Windows.
+* Deshabilitar o reducir la recopilacion de **TELEMETRIA** de Windows, Office, Search y otros componentes.
+* Controlar permisos de las aplicaciones y limitar el acceso a determinados datos.
+* Deshabilitar la sincronizacion en segundo plano de configuraciones, temas y contrasenas.
+* Aplicar configuraciones relacionadas con la privacidad de aplicaciones de terceros.
+* Mejorar el **RENDIMIENTO DEL SISTEMA** mediante diferentes ajustes.
+* Habilitar el plan de energia **Ultimate Performance**.
+* Reducir determinados retrasos relacionados con la entrada del mouse.
+* Configurar servicios y opciones de inicio de Windows.
+* Ajustar determinados comportamientos de Windows Defender relacionados con el uso de CPU.
+* Instalar multiples aplicaciones de forma masiva.
+* Seleccionar aplicaciones de diferentes categorias como navegadores, utilidades, herramientas de desarrollo y reproductores multimedia.
+* Generar scripts de instalacion utilizando **Winget o Chocolatey**.
+* Crear configuraciones personalizadas para automatizar la instalacion de Windows.
+* Generar archivos **autounattend.xml** para instalaciones desatendidas.
+* Configurar una instalacion de Windows 11 con opciones como omitir determinados requisitos de hardware.
+* Crear cuentas locales y reducir determinados pasos innecesarios durante la configuracion inicial de Windows.
+* Ejecutar automaticamente una configuracion personalizada despues de finalizar la instalacion.
 
 > [!NOTE]
-> Con estas funcionalidades, Optimizer es una HERRAMIENTA ESENCIAL para cualquier usuario de Windows que busque MEJORAR LA PRIVACIDAD, SEGURIDAD Y RENDIMIENTO de su sistema.
+> WinScript permite **CONSTRUIR UNA CONFIGURACION PERSONALIZADA DE WINDOWS** combinando opciones de limpieza, privacidad, rendimiento e instalacion de aplicaciones. Debido a que algunas configuraciones pueden modificar componentes, servicios o caracteristicas del sistema, se recomienda revisar cada opcion antes de aplicarla y realizar una copia de seguridad o punto de restauracion cuando sea necesario.
 
 ---
 
